@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  Strings Viewer 
+  Strings Viewer 🔎
   <br>
 </h1>
 
