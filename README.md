@@ -23,7 +23,7 @@ Strings Viewer is a c++ software that will retrieve all the strings of a softwar
 - read strings.txt
 
 ## Need help ?
-join discord -> [dsc.gg/team-camex](https://dsc.gg/team-camex) and DM Edstine#9999
+join discord -> [dsc.gg/team-camex](https://dsc.gg/team-camex) and DM edstine
 
 ## Image
 <h1 align="center">
